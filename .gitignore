@@ -2,3 +2,4 @@ __pycache__/
 sicilian.csv
 stud_after.csv
 stud_before.csv
+validate.py
